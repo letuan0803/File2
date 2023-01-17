@@ -1,0 +1,6 @@
+[submodule "module/module1"]
+	path = module/module1
+	url = https://github.com/octocat/Hello-World
+[submodule "module/module2"]
+	path = module/module2
+	url = https://github.com/solana-labs/example-helloworld
